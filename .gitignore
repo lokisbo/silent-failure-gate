@@ -1,0 +1,5 @@
+out/
+tools/baseline.json
+tools/lint-report.json
+*.log
+*.tmp
